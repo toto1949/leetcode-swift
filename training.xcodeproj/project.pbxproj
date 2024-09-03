@@ -14,6 +14,7 @@
 		445585322C7CE9AF000DE562 /* trainingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445585312C7CE9AF000DE562 /* trainingTests.swift */; };
 		4455853C2C7CE9AF000DE562 /* trainingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4455853B2C7CE9AF000DE562 /* trainingUITests.swift */; };
 		4455853E2C7CE9AF000DE562 /* trainingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4455853D2C7CE9AF000DE562 /* trainingUITestsLaunchTests.swift */; };
+		4455854B2C7CEC05000DE562 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4455854A2C7CEC05000DE562 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		445585372C7CE9AF000DE562 /* trainingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = trainingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4455853B2C7CE9AF000DE562 /* trainingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trainingUITests.swift; sourceTree = "<group>"; };
 		4455853D2C7CE9AF000DE562 /* trainingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trainingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4455854A2C7CEC05000DE562 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				445585232C7CE9AF000DE562 /* Assets.xcassets */,
 				445585252C7CE9AF000DE562 /* training.entitlements */,
 				445585262C7CE9AF000DE562 /* Preview Content */,
+				4455854A2C7CEC05000DE562 /* ViewController.swift */,
 			);
 			path = training;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4455854B2C7CEC05000DE562 /* ViewController.swift in Sources */,
 				445585222C7CE9AB000DE562 /* ContentView.swift in Sources */,
 				445585202C7CE9AB000DE562 /* trainingApp.swift in Sources */,
 			);
